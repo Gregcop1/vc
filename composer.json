@@ -7,6 +7,8 @@
             "email": "gregcop1@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "minimum-stability": "stable"
 }
