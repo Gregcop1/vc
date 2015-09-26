@@ -1,0 +1,12 @@
+{
+    "name": "gregcop1/vc",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Grégory Copin",
+            "email": "gregcop1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
